@@ -1,0 +1,25 @@
+.me-auto:hover
+{
+  background-color: black 0.3s ease;
+}
+.container
+{
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  gap: 30px;
+  text-align: center;
+}
+.para
+{
+ font-size: larger; 
+ line-height: 1.6rem;
+ font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.card:hover {
+  transform: translateY(-10px);
+  
+}
